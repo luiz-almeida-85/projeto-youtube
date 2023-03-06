@@ -1,0 +1,3 @@
+pyuic5 frame.ui -o frame.py -x --> Converter arquivo UI par arquivo PY (programa)
+
+pyrcc5 youTube.qrc -o youtube.py --> Converter a imagem que esta em QRC para .py

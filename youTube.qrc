@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>png-clipart-youtube-logo-graphics-youtube-text-logo-removebg-preview.png</file>
+  </qresource>
+</RCC>
